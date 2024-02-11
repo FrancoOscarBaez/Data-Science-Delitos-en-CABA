@@ -1,0 +1,18 @@
+"id_delito","id_tipo","id_subtipo","uso_armas"
+1,Homicidio,Doloso,NO
+2,Homicidio,Femicidio,Arma cortante
+3,Homicidio,Femicidio,NO
+4,Homicidio,Femicidio Intrafamiliar,NO
+5,Homicidio,Siniestro Vial,NO
+6,Homicidio,Travesticidio/Transfemicidio,NO
+7,Hurto (sin violencia),Con uso de moto,Arma cortante
+8,Hurto (sin violencia),Con uso de moto,Arma de fuego
+9,Hurto (sin violencia),Con uso de moto,NO
+10,Hurto (sin violencia),Hurto Automotor,Arma cortante
+11,Hurto (sin violencia),Hurto Automotor,NO
+12,Lesiones,Siniestro Vial,NO
+13,Robo (con violencia),Con uso de moto,Arma cortante
+14,Robo (con violencia),Con uso de moto,Arma de fuego
+15,Robo (con violencia),Hurto Automotor,Arma de fuego
+16,Robo (con violencia),Robo Automotor,Arma de fuego
+17,Robo (con violencia),Robo Automotor,NO
